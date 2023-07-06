@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tcwongbe@connect.ust.hk"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/TimmyWo47907827"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/timmy-wong-372b451b0/"}
 
 
