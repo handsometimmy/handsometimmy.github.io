@@ -1,5 +1,5 @@
 title: "Timmy WONG"
-author: "Blog Author"
+author: "Timmy"
 description: "Powered by Timmy's big brain"
 permalink: /:title/
 lang: "en"
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home}
+  - {file: "README.md", title: Research record}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tcwongbe@connect.ust.hk"}
