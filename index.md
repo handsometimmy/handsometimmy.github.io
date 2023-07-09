@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-![timmy](assets/20220107_170548.JPG) {: style="float: left"}
+![timmy](assets/20220107_170548.JPG){: width="250" }
 
 My current position is as a Communications Strategist at an ad agency. I help develop and execute communications plans for our clients that help them achieve their business goals. I also manage a team of communication specialists who work on various accounts.
 
